@@ -5,7 +5,7 @@ proje, JavaScript React, API kullanarak oluşturulmuş bir Pokemon Kart Oyunu uy
 <h1> Kullanılan Teknolojiler </h1>
 <hr>
 
-- HTML5
+- HTML
 
 - CSS
 
@@ -13,6 +13,6 @@ proje, JavaScript React, API kullanarak oluşturulmuş bir Pokemon Kart Oyunu uy
 
 - React
 
-  <h1> Ekran Görüntüsü</h1>
+<h1> Ekran Görüntüsü</h1>
 
 ![](pokedex.gif)
